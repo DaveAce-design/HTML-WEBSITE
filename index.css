@@ -19,3 +19,7 @@ td, th {
 th{
     background-color: aqua;
 }
+body{
+    background-color: black ;
+    color: rgb( 245, 245, 245);
+}
