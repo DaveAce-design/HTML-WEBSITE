@@ -1,0 +1,21 @@
+.first{
+    font-style: italic;
+    margin-bottom: 12px;
+}
+.date{
+    display: inline-block;
+}
+.school{
+    display: inline-block;
+}
+table{
+    border-collapse: collapse;
+}  
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+th{
+    background-color: aqua;
+}
